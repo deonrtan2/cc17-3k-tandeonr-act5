@@ -10,11 +10,11 @@ class MainActivity : AppCompatActivity() {
 
     // Data for the paintings
     private val paintingNames = arrayOf(
-        "Dancing (1889)",
-        "Portrait of Maria Maurizio (1860)",
-        "The Siege Of Saragossa (1819)",
+        "Dancing",
+        "Portrait of Maria Maurizio",
+        "The Siege Of Saragossa",
         "A Good Point",
-        "A Male Nude Standing (1884)"
+        "A Male Nude Standing"
     )
 
     private val authors = arrayOf(
@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     )
 
     private val years = arrayOf(
-        "1889", "1860", "1819", "", "1884"
+        "1889", "1860", "1819", "Unknown", "1884"
     )
 
     private val images = arrayOf(
