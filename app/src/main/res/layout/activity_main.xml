@@ -10,7 +10,7 @@
     <EditText
         android:id="@+id/InputTip"
         android:layout_width="0dp"
-        android:layout_height="35dp"
+        android:layout_height="50dp"
         android:ems="10"
         android:inputType="numberDecimal"
         android:text=""
